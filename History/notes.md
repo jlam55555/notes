@@ -110,3 +110,75 @@
 **America in the World** The exploration of the various European powers of the time greatly increased America's importance to the world. It was no longer just a Spanish possession, but now it was in the global focus for the first time&mdash; it became attractive and important to other countries and it would never lose this global attention even now. It was also the first time that French and English powers would penetrate the Americas, where their influences still remain (in Canada and the U.S.A.) and still hold great power nowadays. 
 
 With the native Americans, there was also a great cultural interaction that increased the worldliness of the European countries: there was some mixing of cultures with mestizos. Although, much like the "Black Legend," the majority of European influence on the Americas was in the form of unfair treatment, there was a small degree of the knowledge and acceptance &mdash; with a little bit of assimilation &mdash; that the Spanish encountered.
+
+### Chapter 2: The Planting of English America (1500-1733)
+- Hundreds of thousands of slaves were in the Bahamas
+- English had major outpost in Jamestown; French in Québec; Spanish in Santa Fé
+
+#### England's Imperial Stirrings
+- England didn't need to compete with Spain, being its long-time ally
+- The **Protestant Reformation** disrupted England for a while (King Henry VIII, Protestants v. Catholics)
+    - The Protestant English smothered the Catholic Irish, and thought of them as lowly native people
+
+#### Elizabeth Energizes England
+- Ambitious Queen Elizabeth I
+- "Sought to promote the twin goals of Protestantism and plunder by seizing Spanish treasure ships and raiding Spanish settlements," even though the two countries were allies
+    - Sir Francis Drake was most prominent, even got knighted by the Queen
+- Attempted colonization at Newfoundland, at **Roanake Island** (Sir Walter Raleigh); both failed
+- The **Spanish Armada** was a huge Spanish fleet intended to invade England; it failed because of smaller, faster ships and a storm
+    - Followed by Holland's independence (formerly Spain's Netherlands)
+    - Followed by the Caribbean Islands' independence (formerly under Spanish rule)
+    - Followed a few centuries later by the collapse of the Spanish empire in the Americas
+    - Weakened Spain and boosted English spirits
+
+#### England on the Eve of Empire
+- England's population was rapidly increasing
+- More wealthy people (e.g., landlords) were making it more difficult for the less wealthy (e.g., small farmers); many of these poorer people were the first immigrants to America
+    - Example: when there was a depression in the trade of wool, sheep farmers drifted off, were "footloose"
+- **Primogeniture** means that only first sons could inherit land; younger siblings had to find a life for themselves
+- **Joint-stock company** allowed men to pool their money and work together towards an adventure, or invest on someone else's
+
+#### England Plants the Jamestown Seedling
+- The **Virginia Company**, a joint-stock company of England, was created in search of gold and a shortcut through to the East
+- The **charter** (a document specifying the rights of a group of people) of the Virginia Company allowed them to have the same rights as anyone in England; this was the same for following English expeditions; it was meant to encourage them, so that they would always feel like Englishmen even when away
+- Early conditions in Jamestown were miserable, and there were high rates of death
+- Primitive wants for peace between Native Americans and the new Virginians (i.e., Pocahontas and John Smith's colony); this was stopped by the new governor's attack against the Native Americans
+- John Smith was very strict: "He who shall not work shall not eat"
+
+#### Cultural Clashes in the Chesapeake
+- "Powhatan's Confederacy" was the main tribe in power near Jamestown
+- English were raiding the Powhatans out of desperation; Lord De La Warr began attacking them with orders from England
+- **First Anglo-Powhatan War** took place, and ended with peace treaty (Pocahontas + John Rolfe)
+- **Second Anglo-Powhatan War** took place when Native Americans started retaliating; the English received orders to essentially fight till the death, to reduce the Native Americans to nothing
+    - Ended with the Powhatans' defeat and strict terms: they were banished and separated from the English; soon they were extinct
+    - Powhatans lost because of disease, disorganization, disposability
+
+#### The Indians' New World
+- The Native Americans were not prepared to see anything like the large-scale invasion of the Europeans
+- Horses changed the lifestyle of many Native Americans
+- Disease wiped out entire cultures; sometimes it killed the elders that held all the knowledge, and all the knowledge of a civilization was wiped out
+- Trading with Europeans was very attractive, and there was more violence when fighting over tradeable items
+- Some tribes banded together against the great English powers, but this didn't last long
+
+#### Virginia: Child of Tobacco
+- John Rolfe (Pocahontas' husband) founded the tobacco industry
+- Tobacco had a high demand from Europe
+- Tobacco needed a lot of labor; when people had enough money to buy slaves, this began the slave industry
+- **House of Burgesses** was first assembly in the Americas, allowed under the Virginia Company charter; was one of the first "miniature parliaments" in America
+- King James I didn't like tobacco nor the House of Burgesses, so the Virginia Company charter was revoked and Virginia became an English colony
+
+**Maryland: Catholic Haven**
+- Second "plantation colony," fourth English colony
+- Created by Lord Baltimore for wealth and for Catholics that were fleeing from Protestant England
+    - Lord Baltimore wanted a new feudal system to be started at Maryland
+- Also grew a lot of tobacco, and began to use many slaves
+- **Act of Toleration** was heavily voted on by the Catholics, so that the Protestants wouldn't suppress them as they had back in England
+    - Not only protected Catholics, but also any religion such as Jews and atheists
+
+#### The West Indies: Way Station to Mainland America
+- English took over as main Caribbean power (e.g., taking Jamaica)
+- Sugar (cane) was main cash crop
+    - It was a "rich man's crop" &mdash; only people with sufficient money to start could profit from sugar, because it required a lot of labor and refinement
+- Huge import of slaves into the West Indies at this time (80% population were black)
+- **Barbados slave code** denied all the basic rights to the slaves, treating them very much like property
+- Slave system was copied and implemented for tobacco farming on the mainland colonies 
