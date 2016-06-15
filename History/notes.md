@@ -131,6 +131,8 @@ With the native Americans, there was also a great cultural interaction that incr
     - Followed a few centuries later by the collapse of the Spanish empire in the Americas
     - Weakened Spain and boosted English spirits
 
+**Politics and Power** There was a great change in the English politics. Many of the people became poor and oppressed in Protestant England; this gave some people the incentive to move away; as a result, many of them were the first English immigrants to the Americas. Meanwhile, Spain was losing massive amounts of power, having previously overextended itself in efforts to become a great colonial power. This was epitomized when their great, invincible "Spanish Armada" was overtaken by a small and inferior crew of smaller English ships. As a result, many English resorted even to piracy of Spanish treasure ships, because they soon had the military advantage over the weakening Spanish. As a result of both this religious change and the weakening Spanish, the English had much reason to become riled up in search for discovery.
+
 #### England on the Eve of Empire
 - England's population was rapidly increasing
 - More wealthy people (e.g., landlords) were making it more difficult for the less wealthy (e.g., small farmers); many of these poorer people were the first immigrants to America
@@ -144,6 +146,8 @@ With the native Americans, there was also a great cultural interaction that incr
 - Early conditions in Jamestown were miserable, and there were high rates of death
 - Primitive wants for peace between Native Americans and the new Virginians (i.e., Pocahontas and John Smith's colony); this was stopped by the new governor's attack against the Native Americans
 - John Smith was very strict: "He who shall not work shall not eat"
+
+**Work, Exchange, and Technology** The joint-stock company was created, a great advancement in business that allowed for the hefty investment in such a risky venture. As a result of an increasing population of the England and the increasing persecution against many poorer people or those without land, this encouraged many wealthy investors to look towards the potentially rewarding explorations into the New World. This allowed for important early joint-stock companies, such as the Virginia Company, to get charters from the government and officially go explore in the Americas. 
 
 #### Cultural Clashes in the Chesapeake
 - "Powhatan's Confederacy" was the main tribe in power near Jamestown
@@ -160,6 +164,8 @@ With the native Americans, there was also a great cultural interaction that incr
 - Trading with Europeans was very attractive, and there was more violence when fighting over tradeable items
 - Some tribes banded together against the great English powers, but this didn't last long
 
+**Culture and Society** The Native Americans experienced a great culture shock when the English began to colonize the Americas. Like with the Spanish, the English almost immediately began to fight with the Indians, and quickly won over with superior technology. They came to peace with the natives a few times with treaties, but these were quickly broken because of distrust or dishonesty, and the retaliation often led to the wiping out of entire nations of indigenous Native Americans. This was accompanied still by the outbreak of European diseases, which added to the destruction. In addition, the introduction of the European market also upset Native Americans because it gave them incentive to be more competitive and fight over tradeable items, which in turn led to more violence and death. Even the few confederacies of multiple anti-English tribes that formed as a result of the oppression did not last long.
+
 #### Virginia: Child of Tobacco
 - John Rolfe (Pocahontas' husband) founded the tobacco industry
 - Tobacco had a high demand from Europe
@@ -167,13 +173,15 @@ With the native Americans, there was also a great cultural interaction that incr
 - **House of Burgesses** was first assembly in the Americas, allowed under the Virginia Company charter; was one of the first "miniature parliaments" in America
 - King James I didn't like tobacco nor the House of Burgesses, so the Virginia Company charter was revoked and Virginia became an English colony
 
-**Maryland: Catholic Haven**
+## Maryland: Catholic Haven
 - Second "plantation colony," fourth English colony
 - Created by Lord Baltimore for wealth and for Catholics that were fleeing from Protestant England
     - Lord Baltimore wanted a new feudal system to be started at Maryland
 - Also grew a lot of tobacco, and began to use many slaves
 - **Act of Toleration** was heavily voted on by the Catholics, so that the Protestants wouldn't suppress them as they had back in England
-    - Not only protected Catholics, but also any religion such as Jews and atheists
+    - Not only protected Catholics, but also any religion such as Jews and atheists 
+
+**Politics and Power** The two early colonies of Virginia and Maryland were essentially founded on just a few ideals: in Virginia, the tobacco industry and preliminary Parliamentary-like representative assemblies; in Maryland, also the tobacco industry, but religious tolerance as well. This shows how colonies or states can have defining characteristics that can separate them from other colonies by law; it shows how much power the founders of each state, such as John Rolfe and Lord Baltimore, had so much political power determining the purpose of their state.
 
 #### The West Indies: Way Station to Mainland America
 - English took over as main Caribbean power (e.g., taking Jamaica)
@@ -182,3 +190,43 @@ With the native Americans, there was also a great cultural interaction that incr
 - Huge import of slaves into the West Indies at this time (80% population were black)
 - **Barbados slave code** denied all the basic rights to the slaves, treating them very much like property
 - Slave system was copied and implemented for tobacco farming on the mainland colonies 
+
+#### Colonizing the Carolinas
+- Civil War in England when King Charles I abolished Parliament; ended in his death
+    - This slowed colonization efforts; it picked up speed again afterwards, in the "Restoration period"
+- Carolina colony founded under the rule of the Lords Proprietors (eight nobles)
+    - Developed close economic ties with the slave islands of the Barbados
+    - Also created a heavy slave trade there
+    - Major crop was rice
+
+**Geography and the Environment** The tropical climate lent itself to large harvests and better farming. The islands of the Barbados gave an isolated environment for cheap African slaves. Together, these two geographical phenomenons made the Caribbean islands very attractive for wealthy men with lots of money to buy slaves, because sugar cane quickly became the most profitable crop. This was copied, to some extent, to the mainland colonies, but only to a lesser extent that the climate supported. Therefore, much of the early economy of the Americas was based on this profitable region in the West Indies and its good agricultural conditions.
+
+#### The Emergence of North Carolina
+- There were many **squatters**, people without an official right to land, who were cast out by the gentry population of most of Carolina: formed North Carolina
+- Many of them grew tobacco by themselves, without the money for slaves
+- Were known to be nonreligious and welcoming to pirates
+- Were very resistant to authority
+- Officially separated from South Carolina and became a colony
+- Like Rhode Island, was "most democratic, the most independent-minded, and the least aristocratic of the original thirteen English states"
+- Were not friendly with Indian population
+    - **Tuscarora War** killed and sold many Native Americans into slavery, and the **Yamasee Indians** were widely scattered; last of the powerful southern tribes
+
+**American and National Identity** As a result of the societal shift towards aristocracy that modeled the European life that they were fleeing from, many "squatters," or poverty-stricken and opportunistic people took off in search of a better land, very similar to the eager explorers who had traveled to the Americas in the first place. As a result, they founded a different colony, founded on more American ideals than many of the richer, European-ish colonies: one which was more religiously tolerant and more defiant to authority. This is the same attitude that carried the Americans to separate from England and defy orders because they felt oppressed.
+
+#### Late-Coming Georgia: The Buffer Colony
+- Last of the thirteen colonies, 126 years after Virginia, the first
+- Was meant to serve as a **buffer**, a way to stall off the Spaniards and French from South Carolina
+    - Received governmental funding from the start because of its military importance
+- Created by philanthropists: meant to protect northern colonies, protect indebted people, keep slavery out: the "Charity Colony"
+    - Was a melting pot of religions
+
+#### The Plantation Colonies
+- Southern mainland colonies: Maryland, Virginia, North Carolina, South Carolina, Georgia
+- Large states
+- Mostly profitable cash crops
+- All had slaves
+- Multitude of farms and plantations made churches and schools hard to establish
+- All had religious toleration, but major religion was English Protestant Church
+- All somewhat expansionary, looking for more land for farmers
+
+**Culture and Society** Georgia was a state developed upon interesting and virtuous beliefs, such as religious tolerance, debtor tolerance, and the prohibition of slavery. This shows the radical and creative mind of some Americans, the new ideas of the time&mdash; those three beliefs would carry on even to today. However, the older system of an economic system ruled by slaves and a Protestant-dominated colony, similar to the other plantation states, quickly won over, and Georgia lost its uniqueness. These plantation states reflected the ideology of old America: slavery, plantations, and some expansionary interests.
