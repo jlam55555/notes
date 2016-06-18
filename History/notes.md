@@ -230,3 +230,175 @@ With the native Americans, there was also a great cultural interaction that incr
 - All somewhat expansionary, looking for more land for farmers
 
 **Culture and Society** Georgia was a state developed upon interesting and virtuous beliefs, such as religious tolerance, debtor tolerance, and the prohibition of slavery. This shows the radical and creative mind of some Americans, the new ideas of the time&mdash; those three beliefs would carry on even to today. However, the older system of an economic system ruled by slaves and a Protestant-dominated colony, similar to the other plantation states, quickly won over, and Georgia lost its uniqueness. These plantation states reflected the ideology of old America: slavery, plantations, and some expansionary interests.
+
+#### The Iroquois ("Makers of America" section)
+- **Iroquois Confederacy**, or the "League of the Iroquois," was a confederationof the Mohawks, the Oneidas, the Onondagas, the Cayugas, and the Senugas
+    - Was a great military power before the Europeans (beginning in the late 1500s)
+    - Fought for territory with other Native Americans
+        - Eliminated many rival tribes
+    - Fought with the Europeans for the fur trade
+    - Struggled when European diseases spread
+    - Mostly independent, with some common rules
+    - Allied with both the English and the French at different times during the French and Indian War
+    - Most allied with the British during the American Revolutionary War: the defeat scattered them
+        - Many were put into reservations after this time
+            - Reservation life quickly sunk into a depressing time, until a man named Handsome Lake revived their spirits
+- Society was built around the **longhouse**
+    - Very long &mdash; fits its name
+    - Fits an entire family, with two to three fireplaces
+    - Matriarchal society: matriarch was oldest woman, all the women of the same family stayed in a longhouse
+    - Men moved out to wife's longhouse when married
+
+### Settling the Northern Colonies (1619-1700)
+- Religion is the major factor deciding the culture of early settlements
+
+#### The Protestant Reformation Produces Puritanism
+- Martin Luther => Protestant Reformation
+    - Protestant Reformation gave a lot of spirit to many Europeans 
+- John Calvin heavily influenced by Luther, **Calvanism** founded based on his beliefs, the doctrine of many Puritans and other religions
+    - Wrote *Institutes of the Christian Religion*; said that God was all powerful, **predestination** (destiny) could not always be overcome
+    - **Conversion** was the "receipt of God's free gift of saving grace"
+    - Expected to demonstrate their willingness to God
+    - **Puritans** were people looking to make a complete change to the Roman Catholic Church to "purify" it; most were poor farmers
+        - **Separatists** were a "tiny group of dedicated Puritans" that wanted to break away from the Church of England
+    - They were more radicals than the Protestants: thought the Protestant Reformation was too slow
+
+#### The Pilgrims End Their Pilgrimage at Plymouth
+- One group of Separatists left to Holland to escape persecution, but were unhappy there; made a deal with the Virginia Company and left to Jamestown on the *Mayflower*
+    - Missed Jamestown and ended up in in Massachusetts, stopping at Plymouth Bay (after some surveys)
+    - **Mayflower Compact** was signed to create a simple government between them; served as an important precedent for later
+    - Believed strongly in God, even in the tough times in the New World
+    - Eventually merged with the Massachusetts colony
+
+#### The Bay Colony Bible Commonwealth
+- More moderate Puritans than the Separatists wanted to reform the Church; however, when reform seemed impossible with anti-Puritan leaders, they sought to leave
+    - Created a charter for the **Massachusetts Bay Company**
+    - Very well equipped to Massachusetts
+    - The **Great English Migration** brought many English over to the Americas during a time of turmoil in England
+    - Massachusetts quickly became the most prosperous state with educated leaders and abundance of resources
+- The Massachusetts people believed that they could set a model of a holy society for the future
+
+#### Building the Bay Colony
+- All "freemen" (men who were Puritan, under the Congregational Church), could participate in their government (40% of the population)
+- Voting with majority usually happened in important town meetings
+- Not a democracy; they were afraid of the common people ruling
+- The whole point of the government was to support the religion, and nonbelievers paid taxes towards the Church
+- Not all power was given to clergymen though; they were not allowed political office, and they had to be elected, in order to avoid another situation like that in England
+- Had a "Protestant ethic," a serious work ethic because of God's calling to do work on Earth
+
+#### Trouble in the Bible Commonwealth
+- **Antinomianism** is the belief that because of predestination, there was no need to obey law
+    - Anne Hutchinson was a strong supporter of this
+    - It was high heresy, and she was quickly banished and killed by Native Americans
+- Roger Williams was popular, spread ideas of complete separation from the Church of England (Separatism), also banished
+
+#### The Rhode Island "Sewer"
+- Roger Williams fled to Rhode Island, where he set up a Baptist church, with complete freedom of religion (even Jews and Catholics)
+    - No oaths nor taxes
+    - Made Rhode Island more liberal and advanced than many other communities of the world
+    - Lots of freedom of opportunity
+    - Full of unwanted people, a "religious sewer"
+- Rhode Island officially became a state when it gained a charter
+
+#### New England Spreads Out
+- Connecticut River attracted many people, Hartford was founded
+- Connecticut settlers created the **Fundamental Orders**, the first modern constitution
+- New Haven merged with Connecticut charter
+- New Hampshire was also created
+
+#### Puritans Versus Indians
+- Native Americans weak in New England
+    - Epidemic after Mayflower landing wiped out 75% of Native American population
+- Wampanoag Indians tried to befriend the Europeans at first, held the first Thanksgiving with them
+- **Pequot War** was between the Europeans and the Pequots, annihilated the Pequots and created more unrest
+- "King Philip" was a Native American that created an alliance of tribes and began to attack settlements; he was defeated, but caused some damage to settlements in **King Philip's War**
+
+#### Seeds of Colonial Unity
+- **New England Confederation** was when four colonies banded together for defense
+    - Two Massachusetts colonies (Bay and Plymouth) and two Connecticut colonies (New Haven and Hartford)
+    - Mostly Puritan, excluded the Maine and Rhode Island heretical colonies
+ colony
+    - Each colony got two votes (equal representation)
+    - First step to uniting the colonies
+- The **English Civil War** was raging back at home, making the colonies more separated and independent
+    - Part of the reason why England was so "hands-off" and let the colonies thrive
+- With King Charles II, England was back in control: sought to punish the Puritans and crush any rebellion (i.e., in Massachusetts)
+    - Strengthened Connecticut and Rhode Island, and weakened Massachusetts by revoking its charter
+
+#### Andros Promotes the First American Revolution
+- England created the **Dominion of New England** to gain more control over the colonies
+    - Had Massachusetts, New York, New Jersey, and the rest of New England
+    - Promoted defense against the Native Americans
+    - Was meant to improve efficiency with the **Navigation Laws**
+        - These meant to give the English government more control over its trade, especially in a time of fierce maritime competition
+- Sir Edmund Andros was the dictator of the Dominion
+    - Disliked because he was affiliated with the Church of England and had nasty soldiers
+    - Stopped town meetings, created restrictions on the court, the press, and schools, took back land, taxed people without consent, enforced the Navigational laws and stop smuggling
+- England had the **Glorious / Bloodless Revolution** that dethroned King James II, gave the inspiration for colonists to revolt
+    - Andros sent off in Massachusetts; Massachusetts was given a new, royal charter; changed religious and political ideals (i.e., not anymore Puritan and voting for the majority)
+    - New York and Maryland also revolted
+    - New royal governors started **salutary neglect**, when the Navigation Laws were not strongly enforced to the Americans' benefit
+- More English officials ruled in the Americas, many of whom were less caring because this was just a job and not their native land
+
+#### Old Netherlanders at New Netherland
+- The Dutch got their independence from Spain (the Netherlands/Holland became a country) in the late 1500s with help from England
+- The Dutch quickly became very powerful, especially with their navy
+    - Fought three naval wars against England
+    - Became a colonial power, especially in the East Indies with the Dutch East India Company (and a little with the Dutch West India Company in the Caribbean)
+- Henry Hudson was hired to go explore; sailed northwest and discovered a new bay and claimed land for the Dutch; didn't find the shortcut to the East
+- Dutch West India Company bought New York and settled in New Netherland around the Hudson River
+    - New Amsterdam (now New York City) was run by a Dutch company, simply for commercial purposes
+        - **Patroonships** were feudal systems given to people, each of which had at least fifty people settled on them
+        - Ethnic diversity started to appear quickly
+
+#### Friction with English and Swedish Neighbors
+- Company was under a lot of pressure:
+    - Incompetent leaders
+    - Shareholders demanding money
+    - Threat of Native Americans (wall &rarr; Wall Street)
+- Swedish (at the height of their power) trespassed on Dutch lands, and Dutch trespassers were kicked out of the New England colonies
+    - The Dutch attacked New Sweden and won; New Sweden faded away, its colonists assimilated into New Netherlands
+
+#### Dutch Residues in New York
+- Dutch settlements were not a primary concern, and therefore weak
+- New Amsterdam was taken over by the Duke of York (later renamed New York in his honor) over Peter Stuyvesant, and therefore the English owned a continuous stretch of land
+    - A strategic win for England: gave them a port and a river into the interior of the land
+- Maintained an aristocratic place, poor immigrants not welcome
+- Many Dutch influences on culture and names: Stuyvesant (High School), "Harlem, Brooklyn, Hell Gate ... Easter eggs, Santa Claus, waffles, sauerkraut, bowling, sleighing, skating, and golf"
+
+#### Penn's Holy Experiment in Pennsylvania
+- **Quakers** were "dissenters" that supposedly quaked when empowered by "religious emotion"; officially the Religious Society of Friends
+    - Refused to pay taxes to the Church of England and had very distinctive ways, many of which put them in conflict with authority
+    - Were "a simple, devoted, democratic people, contending in their own high-minded way for religious and civic freedom" &mdash; won with passive resistance
+    - Many were punished or killed for their resistance
+- William Penn was a devout Quaker from a young age
+    - Looked to the new world for a haven for Quakers, experimentation with a more liberal government, and personal profit
+    - Gained land granted from the King (Pennsylvania) in return for a debt from the government
+- Pennsylvania was well and honestly advertised to a diverse group, attracted many immigrants
+
+#### Quaker Pennsylvania and Its Neighbors
+- A wonderful haven to all: (many of these liberal policies are still in place)
+    - Well-planned city was attractive
+    - Invited many squatters in from other colonies
+    - Had great relations with the Native Americans (until non-Quakers disrupted this relationship)
+    - Very liberal society, had an elected representative assembly
+    - Taxes didn't go towards church
+    - Freedom of worship (religion)
+    - Less common death penalty
+    - No military
+    - No restrictions on immigration and easy process of naturalization
+    - Against slavery
+    - **Blue Laws** to keep the peace
+- Modern society boosted "economic opportunity, civil liberty, and religious freedom"
+    - Quickly became the third-most prosperous state (after MA and VA)
+    - Followed by the acquiring of New Jersey with similar principles
+    - Delaware was also closely tied with Pennsylvania and its ideals
+
+#### The Middle Way in the Middle Colonies
+- Middle colonies: NY, NJ, DE, PA
+- Fertile soil and flat lands &rarr; grew much grain
+- Large rivers &rarr; fur trade
+- Forests &rarr; lumber and shipbuilding industries
+- In between New England and the South in terms of land size and amount of industries (more land in the South and fewer industries, and vice versa for the North)
+- More ethnically diverse and socially liberal, with more democracy (more "American")
+    - Benjamin Franklin, a "true American," thrived in Philadelphia, PA
