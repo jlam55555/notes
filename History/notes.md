@@ -1,6 +1,15 @@
 # AP US History (APUSH) Summer Reading
 ##The American Pageant Chapters 1-4
 
+### The Seven Themes of AP U.S. History
+1. American and National Identity
+2. Politics and Power
+3. Work, Exchange, and Technology
+4. Culture and Society
+5. Migration and Settlement
+6. Geography and the Environment
+7. America in the World
+
 ### Chapter 1: New World Beginnings (33,000 B.C.E. - 1769 C.E.)
 #### The Shaping of North America
 - All of American history is insignificant in reference to the grand scheme of time and the universe
@@ -270,6 +279,8 @@ With the native Americans, there was also a great cultural interaction that incr
     - Believed strongly in God, even in the tough times in the New World
     - Eventually merged with the Massachusetts colony
 
+**Culture and Society** Martin Luther and his Protestant Revolution sparked a slew of religious movements that dramatically changed the European culture and that of the explorers of America. When the Roman Catholic Church was deemed flawed by Luther, Puritans formed in response, who were willing to change the Church for the better, and then Separatists formed as an extreme group of Puritans. The beliefs behind the Separatists (and in the Puritans and Luther, to a less extreme extent) gave them the courage to come to America to flee persecution and the perseverance to endure the difficult times as pilgrims. Specifically, this affected the life of many New Englanders of the future who lived in or near the Massachusetts area where the pilgrims settled.
+
 #### The Bay Colony Bible Commonwealth
 - More moderate Puritans than the Separatists wanted to reform the Church; however, when reform seemed impossible with anti-Puritan leaders, they sought to leave
     - Created a charter for the **Massachusetts Bay Company**
@@ -277,6 +288,8 @@ With the native Americans, there was also a great cultural interaction that incr
     - The **Great English Migration** brought many English over to the Americas during a time of turmoil in England
     - Massachusetts quickly became the most prosperous state with educated leaders and abundance of resources
 - The Massachusetts people believed that they could set a model of a holy society for the future
+
+**American and National Identity** At a time when its mother country England was weak, the colonies in America were busy at work, trying to establish themselves and keep to their ideals that were still contrary to English beliefs. This included creating opportunity in the Massachusetts Bay colony and an increase in Puritans wanting to reform the church. As a result, the hard work quickly paid off, making Massachusetts the most wealthy state, and one hopeful with the prospect of making an impact on a world (i.e., by changing the religion in England). This is a great representation of the spirit of independence and opportunity that the Americans have&mdash; they used their largely hands-off freedom to give themselves more control and power.
 
 #### Building the Bay Colony
 - All "freemen" (men who were Puritan, under the Congregational Church), could participate in their government (40% of the population)
@@ -292,6 +305,8 @@ With the native Americans, there was also a great cultural interaction that incr
     - It was high heresy, and she was quickly banished and killed by Native Americans
 - Roger Williams was popular, spread ideas of complete separation from the Church of England (Separatism), also banished
 
+**Politics and Power** Religion played an enormous factor in shaping the colonies by changing the political system. This was especially in terms of power allocation, because the people wanted to move away from the corrupted systems like in England. The Puritan majority allowed Puritan men to vote, anyone else to pay taxes to the Congregational church, a secular government (for historical reasons), a strong God-initiated work ethic, and controversial court cases regarding interpretation of religion. Overall, religion began to set up the way the modern system of government works, leaving a legacy with the "Protestant work ethic" and the idea of a town meeting. These men were trying to figure out a way to escape the system of broken religion and government such as that in England, and therefore they endeavored to create a working system of government that both promoted their better form of religion and gave the people more rights; many of those same ideals are preserved into the modern day, although some of their policies may have been changed.
+
 #### The Rhode Island "Sewer"
 - Roger Williams fled to Rhode Island, where he set up a Baptist church, with complete freedom of religion (even Jews and Catholics)
     - No oaths nor taxes
@@ -299,6 +314,8 @@ With the native Americans, there was also a great cultural interaction that incr
     - Lots of freedom of opportunity
     - Full of unwanted people, a "religious sewer"
 - Rhode Island officially became a state when it gained a charter
+
+**American and National Identity** The United States are perhaps best known for their "melting pot" diversity and its liberal democracy. By allowing religious tolerance and not imposing any sort of religious tie such as taxes, even reaching beyond Christianity, Roger Williams of Rhode Island pushed his colony to the forefront of social liberalism, welcoming everybody regardless of religious affiliation, a crucial right we enjoy protected in our Constitution as part of the First Amendment. It opened up another freedom to the people, and therefore much opportunity. Therefore, Rhode Island was one of the pioneers of the open diversity that makes America so advanced and unique. 
 
 #### New England Spreads Out
 - Connecticut River attracted many people, Hartford was founded
@@ -313,6 +330,10 @@ With the native Americans, there was also a great cultural interaction that incr
 - **Pequot War** was between the Europeans and the Pequots, annihilated the Pequots and created more unrest
 - "King Philip" was a Native American that created an alliance of tribes and began to attack settlements; he was defeated, but caused some damage to settlements in **King Philip's War**
 
+**Geography and the Environment** Although the European colonial powers liked to perceive themselves as invincible empires, they were still human beings and had to survive with basic needs and suffer from material enemies. Thus the Connecticut colonies of Hartford and New Haven were bound to the Connecticut River. On the other hand, Native Americans were also inhabiting the same land and hostilities were still high, so a few bitter battles were fought to take the land and to protect themselves from the Native Americans, who were already weakened by disease. However, with inferior technology, the Native Americans posed little threat to the imperialistic pilgrims.
+
+**Migration and Settlement** The creation of Connecticut and New Hampshire are other forms of settlement. They were created like any other colony, as people were attracted to the more hospitable living conditions of the Connecticut River. Their settlement affected the area permanently, also like other colonies, by virtually wiping out the Native Americans. These were some ordinary colonies, but they continued the devastating path of the English.
+
 #### Seeds of Colonial Unity
 - **New England Confederation** was when four colonies banded together for defense
     - Two Massachusetts colonies (Bay and Plymouth) and two Connecticut colonies (New Haven and Hartford)
@@ -324,6 +345,8 @@ With the native Americans, there was also a great cultural interaction that incr
     - Part of the reason why England was so "hands-off" and let the colonies thrive
 - With King Charles II, England was back in control: sought to punish the Puritans and crush any rebellion (i.e., in Massachusetts)
     - Strengthened Connecticut and Rhode Island, and weakened Massachusetts by revoking its charter
+
+**America in the World** Although it was distracted by its civil wars, England quickly fastened its iron grip on the Americas once it had discovered the power and wealth that the colonies were gaining. The New England Confederation was a collaboration that gave the people more power and representation&mdash; the beginnings of a democracy. The citizens of Massachusetts began to gain their rebellious edge, the same that continued through the American Revolution that made it such a huge player in the war and such a patriotic, freedom-fighter spirit. As a result, Massachusetts received punishment similar to the ones it would get in the future in the Revolutionary War. This was, presumably, the first time that England had recognized the growing insurgent threat of the colonies and their first attempt to curb it.
 
 #### Andros Promotes the First American Revolution
 - England created the **Dominion of New England** to gain more control over the colonies
@@ -339,6 +362,8 @@ With the native Americans, there was also a great cultural interaction that incr
     - New York and Maryland also revolted
     - New royal governors started **salutary neglect**, when the Navigation Laws were not strongly enforced to the Americans' benefit
 - More English officials ruled in the Americas, many of whom were less caring because this was just a job and not their native land
+
+**American and National Identity** As the header states, the rebellion sparked by the harsh rule of Edmund Andros on behalf of England could be considered the "First American Revolution." It foreshadows the violence, as well as the passionate American victory and humiliating British defeat that would follow, and thus marks and important part of American history. Like the American Revolution, it shows the people that it is right to fight for the ideals of freedom from suppression and the right to overthrow a government that is unfit to rule&mdash; a founding principle of this nation.
 
 #### Old Netherlanders at New Netherland
 - The Dutch got their independence from Spain (the Netherlands/Holland became a country) in the late 1500s with help from England
@@ -365,6 +390,8 @@ With the native Americans, there was also a great cultural interaction that incr
     - A strategic win for England: gave them a port and a river into the interior of the land
 - Maintained an aristocratic place, poor immigrants not welcome
 - Many Dutch influences on culture and names: Stuyvesant (High School), "Harlem, Brooklyn, Hell Gate ... Easter eggs, Santa Claus, waffles, sauerkraut, bowling, sleighing, skating, and golf"
+
+**America in the World** Rather than the American colonies imposing their own culture on other countries, other colonial powers lent their own culture to the colonies as residual settlements. Although they were not primary political nor economic concerns of the Swedish and the Dutch, the cities that they had left behind held enormous import to our culture and even our language, as well as great cities such as New York City. Some of this was ethnic diversity; some was an aristocratic society; some were holiday customs. Together, however, they form a diverse group of interesting societal quirks that the Americans gained by conquering the territories of other nations. Interestingly, this competition for power between the nations gave a benevolent assimilation of cultures rather than an obliteration as had been with the Native Americans, most likely because of the Americans' higher respect for the former.
 
 #### Penn's Holy Experiment in Pennsylvania
 - **Quakers** were "dissenters" that supposedly quaked when empowered by "religious emotion"; officially the Religious Society of Friends
@@ -394,6 +421,8 @@ With the native Americans, there was also a great cultural interaction that incr
     - Followed by the acquiring of New Jersey with similar principles
     - Delaware was also closely tied with Pennsylvania and its ideals
 
+**Culture and Society** Similar to what had happened in New England a little earlier with religiously-tolerant Rhode Island, Pennsylvania was a bustling colony of ideas very different from those of the time and very similar to what we value nowadays. They moved away from the strict and restricting laws of the Old World that they were escaping from and moved towards a secular, more opportunity-prone and free society. Some of those ideas are even considered liberal and controversial today, such as no restrictions on immigration and no death penalty. In addition, their system of representative government was also a more modern system; like the earlier town meetings, they worked to get more equal society by having the people vote on elected assemblies. In that world where many people still had a more conservative mindset, Pennsylvania also portrayed the persevering mindset that allowed it to convert some other colonies to hold similar beliefs, similar to how the United States is still trying to convert other nations to democracy as a better government.
+
 #### The Middle Way in the Middle Colonies
 - Middle colonies: NY, NJ, DE, PA
 - Fertile soil and flat lands &rarr; grew much grain
@@ -402,3 +431,5 @@ With the native Americans, there was also a great cultural interaction that incr
 - In between New England and the South in terms of land size and amount of industries (more land in the South and fewer industries, and vice versa for the North)
 - More ethnically diverse and socially liberal, with more democracy (more "American")
     - Benjamin Franklin, a "true American," thrived in Philadelphia, PA
+
+**Geography and the Environment** The colonies used the land for what they could: in the southern states, farming was the largest source of income. There was more industry up north with the older colonies and a larger percentage of more educated people. The size of land and the amount of industry varied from North to South with what was appropriate; this large variety and the adaptations the people made to best use the land gave the Americans the most fruitful results for their efforts. As a result, the "middle colonies" &mdash; those in between the North and the South both geologically and in terms of industry and farming&mdash; had the most mixing of the different kind of people, and thus was the most "American" because of its diversity of people and ideas.
