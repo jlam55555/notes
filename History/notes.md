@@ -433,3 +433,135 @@ With the native Americans, there was also a great cultural interaction that incr
     - Benjamin Franklin, a "true American," thrived in Philadelphia, PA
 
 **Geography and the Environment** The colonies used the land for what they could: in the southern states, farming was the largest source of income. There was more industry up north with the older colonies and a larger percentage of more educated people. The size of land and the amount of industry varied from North to South with what was appropriate; this large variety and the adaptations the people made to best use the land gave the Americans the most fruitful results for their efforts. As a result, the "middle colonies" &mdash; those in between the North and the South both geologically and in terms of industry and farming&mdash; had the most mixing of the different kind of people, and thus was the most "American" because of its diversity of people and ideas.
+
+### Chapter 4: American Life in the Seventeenth Century
+#### The Unhealthy Chesapeake
+- People were very short-lived in the Chesapeake (around Virginia)
+    - Average life expectancy (median) around 20
+    - Population growth from immigration alone
+    - Most marriages lasted under seven years because of a death
+- Women lived shorter and were greatly outnumbered by men; made them very desirable
+- This turned around in the early 1700s, when Virginia became the most populous state
+
+#### The Tobacco Economy
+- Tobacco was easily grown in the Chesapeake area, but it overexerted the land
+    - Farmers had to keep looking for new land, often going into Native American lands and provoking attacks
+    - Increased demand &rarr; increased supply through more farming and land
+- Desperate, unemployed Europeans main source of labor
+    - **Indentured servants** were these desperate whites, making a contract for several years under a master in exchange for a free trip to America and freedom dues
+        - Freedom dues included an ax, a hoe, barrels of corn, suit of clothes, and land (increasing rarely land because of scarcity)
+- **Headright system** in place in Virginia and Maryland that encouraged indentured servants: if a master paid for the voyage to America for a servant, they got fifty acres of land
+    - System could be played to gain lots of land (and therefore lots of power as the demand for land increased)
+- Life was hard for indentured servants: rarely got land, got punished with longer contracts, often were poor enough to seek reemployment after freedom
+
+**Geography and the Environment** The fertile land of the South was the only reason people could still live and survive. With such short life spans and little advancement in professional occupations, land provided a steady source of income and work. This greatly changed the way of life by encouraging Englishmen to immigrate to gain an opportunity through farming to freedom. Geography also shaped society by putting a strain on farmers for land: the geographical needs of the people were growing ever more, and systems such as the Headright system were only put in place to match this economical-geopolitical need. And, because of these two geographical features &mdash; agriculture-dependent South and the rarity of free land &mdash; the South became somewhat of a feudal system, with land-owning farmers being the most powerful. 
+
+#### Frustrated Freemen and Bacon's Rebellion
+- There were increasing numbers of unemployed, poor, desperate people in the late 1600s
+    - Frustrated because they couldn't find land and a mate
+- A revolt led by Nathaniel Bacon against Governor Berkeley of Virginia broke out (**Bacon's Rebellion**)
+    - Didn't like the friendliness between governor and Indians (government monopolized the fur trade)
+    - Attacked Native Americans and chased out Berkeley
+    - Bacon and many of his men soon died, allowing the governor again to take power and punish some of the offenders
+    - Made the angry unemployed white people a less attractive source of labor
+
+**Politics and Power** This was another of the early revolts that played an important part in shaping American culture. The people fought against the wealthy in a showdown between the poor commoners and the wealthy men in control. The men who revolted were poor and without a job, and had the 1600s equivalent of a violent worker strike. Perhaps this was another foreshadowing of the American revolution a century in the future, because the governor (like King George) was exploiting the fur trade (like England forcing taxes on the colonies) and giving little benefit to the colonists (no representation for the colonies). However, in this particular event, the colonists were without a win, and succumbed to disease.
+
+**American and National Identity** This was another important stage in the development of many American beliefs. One of them was the ongoing suppression of the Native Americans by the commoners with superior weapons; again, this resulted in vast casualties for the Native Americans. This also established a clear rebellion against suppression by the people, and the willingness to fight for their rights, a fundamental right that was not even written at the time. It also showed that many Americans are just average citizens, looking for work and wanting to earn a good living, but even hardworking citizens do not always have what they want: such is the beginning of the American stories of toil and rise from rags to riches. Unfortunately, this is still in a very early stage and the people are not yet victorious in their efforts.
+
+#### Colonial Slavery
+- Over 7 million African slaves were brought over in the 300 years since Columbus (until ~1800)
+    - Most ended up in the West Indies or with Spain or Portugal, 400,000 ended up in the American colonies
+    - Slaves were more costly than white people
+- Slaves began to outnumber indentured servants in the late 1600s
+    - Higher wages in England meant fewer people looking to become indentured servants
+    - There was an increased demand for labor
+    - Planters were afraid of rebellion after Bacon's Rebellion
+    - The **Royal African Company** slave-trading monopoly lost power and Americans rushed in to try to make money with the slave trade
+- Slaves soon made up as much as half the population in some southern states
+- Slaves traveled primarily through the **middle passage** route
+    - Mortality rates were upwards of 20%
+    - Ports became busy slave markets
+- Life for slaves was made harder
+    - A few Africans got citizenship after a while, but this decreased when the whites considered them a threat
+    - The **slave codes** in Virginia were official rules that declared slaves and posterity the *property* (objective "chattels") of white masters
+        - Sometimes teaching literacy was illegal
+
+**Work, Exchange, and Technology** Suddenly, as economic systems change and there is a greater demand for labor, slaves suddenly become more attractive than white indentured servants. Higher wages for Europeans and the collapse of a slave-trading monopoly opened up the opportunity for entrepreneurs to discover the potential profit in slave trading. This eventually led to the importation of hundreds of thousands of African slaves in order to satisfy the needs of the planters. Next, in order to maximize profits, and presumably to shield themselves from the cruelties they imposed on the slaves, the whites established the "slave codes" that made slaves the property of the white planters. As a result, slaves were lowered into the position that they were for many years, with no rights and not even considered a person.
+
+#### Southern Society
+- Socioeconomic gap began to spread; a hierarchical system was created
+    - Plantation owners at top with many slaves and much land, also powerful in the House of Burgesses
+        - They did not abuse their power, and were often hardworking and business-oriented
+    - Small farmers made up the majority population
+    - Landless whites lived harder lives; fewer as time went on and slaves were more prevalent
+    - Slaves were lowest in hierarchy
+- Waterways and plantation dominated the South, with cities and roads (more modern infrastructure) made a professional and urban life slower to develop
+ 
+#### The New England Family
+- New Englanders had it better with longer lives with a life expectancy around 70 (longer than England's and close to today's)
+    - Had clean water and cool temperatures to help them against disease
+    - High rates of fertility and early marriage allowed population to boom
+        - Many children established housewife-life of many women
+    - Grandparents were "invented," now being more common than ever
+    - Families were more stable
+- Usually women gave up property so as to prevent undermining the rectitude of marriage, unlike in the south when men usually died early and left behind little
+- Women could not vote, but their rights were getting stronger
+    - Men were punished for uncivil behavior regarding their wives
+- Women dominated midwifery (assisting childbirths)
+- Marriages usually persisted, only breaking with abandonment or adultery
+    - Adultery penalized with public whipping and an "A" badge to wear always
+
+**Culture and Society** There is a very clear distinction between New England and Southern American life. The north had longer life, longer marriages, and therefore stronger familial bonds and more concurrent generations being alive. Women gained more rights than in the South, further promoting their power with longevity. However, in the South, with more physical, disease-prone, and shorter lives, they lived harsher and crueler lives dependent on their land-owning capabilities. Only a few families were in the wealthy upper class, and even they had to try hard to keep their wealth, keep their business going, and keep control of their servants. Overall, society was beginning to settle down, with social classes dominating the south and stronger bonds in towns and families in the North.
+
+#### Life in the New England Towns
+- Society based on small villages and farms
+- Puritanism played large role in unifying (like Catholic church under the Roman Empire)
+- Growth was more deliberate and planned (unlike that of the individuals in the Chesapeake region who wanted more land)
+    - "Proprietors" waited for official colonial grants to land; they moved to the designated place and received land and some materials necessary for beginning a town
+        - New towns usually had a meeting house, a village green, a woodlot for fuel, growable land for crops, pasture land for animals, and houses
+        - Towns with more than fifty families needed elementary education (allowed quick formation of education such as Harvard College)
+- **Congregational Church**es were individually run by Puritans with a democracy
+    - Promoted idea of political democracy, with meetings in the meeting house to discuss issues and elect officials
+
+#### The Half-Way Covenant and the Salem Witch Trials
+- The Church became less powerful and popular
+    - **Jeremiad** was a new type of sermon in churches, when preachers scolded others for being less faithful; conversions were less common as well
+    - The **Half-Way Covenant** was an agreement that allowed children of baptized but not converted members to be baptized but not have full communion &mdash; a partial membership
+        - Convenant = agreement between church and its members
+        - Made the Church less exclusive; eventually some let anyone in, coverted or not
+- Witch hunts became common
+    - In Salem, people accused women of having bewitched them, causing a witch hunt that hanged 20 women and two dogs (the **Salem witch trials**)
+    - Might have been a result of higher conflict with Native Americans and social gap: often poorer women accused the wealthy women
+    - Ended when the governor stopped it, secured by official law that forgave the women
+
+**Politics and Power** New England became joined through the Puritan Church much like the Catholic Church commanded the Roman Empire. As a result, political structures arose similar to those established in the Church: in the Americas, this meant town-meetings and a democratic-like society. People within a town got equal power to elect their officials and vote on decisions, which was the local model of the democratic system that we have today. In addition to this democratic system, the Church also allowed a more structured expansion. However, the Church also gave people enormous political power, such as during the Salem Witch Trials: what should have gone through a normal court trial case (the executions of accused women and dogs) was instead allowed without rationale by the Church for some time. However, this religious zeal soon faded, even despite the Jeremiah sermons, but the political structures that were established by it stayed in place.
+
+#### The New England Way of Life
+- Land was hard to grow from with lots of rocks, but they worked hard to tame the land
+- People were also very frugal and tried to get money however they could (notably, whittling "wooden nutmegs" for real ones to get money from)
+- Undesirable land and religion made New England less ethnically diverse than the South
+- Hard climate (extreme seasons) made economy more diversified than the South (which depended on agriculture)
+    - Timber from forests made shipbuilding an industry
+    - Lots of cod off the shores for fishing
+- The New Englanders thought the Native Americans had wasted the land by not exploiting it enough, and they used it to their advantage, usually damaging the land
+    - Livestock ate much grass and increased erosion
+- New Englanders often stayed near ports
+- Hard life "made for energy, purposefulness, sternness, stubbornness, self-reliance, and resourcefulness"
+- Many former New Englanders carried the philosophy with them throughout the rest of America
+
+**Migration and Settlement** People in the Northeast did not have an easy time with the land; as a result, they moved to the places where they could find opportunity to make a living. There were a few people who toiled to tame the rocky land, but this was difficult work. Instead, many people ended up settling on the busy ports along the coast: this offered jobs such as trading, shipbuilding, and fishing. Others moved inland to farm livestock or cut lumber. As a result of these more difficult, professional jobs, and the greater settlement in the cities, New England became a place of busy cities and business professionals &mdash; it remains that way to this day. Most of the early jobs that the people found opportunity to do also still exist. The New Englanders that began to settle farther west also carried these philosophies and occupations of New England life with them.
+
+#### The Early Settlers' Days and Ways
+- People were still governed by nature
+    - Majority were farmers, governed by seasons
+- Women stayed at home, men did the heavy-lifting (very strong gender roles)
+- Humble but comfortable lives
+- Relatively cheap land in the North
+- Most people in America were the middle-class from Europe (wealthy don't move, poor can't move)
+- Social classes weren't very pronounced
+    - Bacon's Rebellion was against the wealthy in Virginia
+    - **Leisler's Rebellion** was against the wealthy in New York
+- Equality and democracy began to take root
+
+**American and National Identity** In general, in this late-1600s period of American history, people were living poor, humble lives, struggling to survive &mdash; the beginning of a typical American success story. The average person worked to live comfortable, humble lives, and the feudal caste system in that was more common in Europe was less common as equality and democracy became more prevalent. In addition, two major rebellions, Bacon's Rebellion and Leisler's Rebellion, took place that showed the Americans' indignant, anti-oppression, fighting spirit. As for many years in the future, there were strong gender roles &mdash; women at home and men out in the fields &mdash; and farming was the most common industry in the south, with suppressed slaves forming the backbone of the American identity.
