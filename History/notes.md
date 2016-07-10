@@ -74,12 +74,12 @@
 **Work, Exchange, and Technology** As a result for the growing greed of Europe for luxuries and power, new efforts were created in order to further explore the world in order to gain wealth. Through various distinct explorers such as Marco Polo and Vasco da Gama, trade and interest expanded, thus performing a virtuous cycle of increasing exchange and therefore wealth. This was accompanied by an improvement in various technologies, such as the caravel, a better boat for sailing, and other improved navigational techniques. As a result, a steady input of gold and slaves from Africa and exotic goods from Asia&mdash;a great system of economic exchange&mdash; was established, thus increasing the productivity and wealth of Europe in general. Eventually the Americas were discovered, which provided yet another land to use for resources.
 
 #### When Worlds Collide
-- The **Columbian exchange** was when Columbus first visited the Americas and different species and people that had been separated for many thousands of years came into contact again&mdash; an unnatural, biological mixing unheard of beforehand
+- The **Columbian Exchange** was when Columbus first visited the Americas and different species and people that had been separated for many thousands of years came into contact again&mdash; an unnatural, biological mixing unheard of beforehand
     - The Europeans encountered many new animals, plants, and foods when they arrived, such as rattlesnakes, iguanas, tobacco, corn, beans, tomatoes, and potatoes
     - The introduction of new foods greatly helped feed Europe and the rest of the world
         - 60% of the world's food nowadays originates from the Americas
     - The Europeans also introduced many species as well, such as horses and sugarcane
-        - Horses were quickly adopted into Native American lifestyles
+        - Horses were quickly adopted into Native American lifestyles; more mobile ones, such as the Apache and Blackfeet tribes, became powerful because of them; more mobile ones, such as the Apache and Blackfeet tribes, became powerful because of them
         - Sugarcane thrived, and gave a huge boost of sugar in Europe
     - Brought many diseases over: smallpox, yellow fever, malaria 
         - Killed majority (90%!) of Native Americans because they did not have any immunity built up: largest killer brought by Europeans
@@ -241,7 +241,7 @@ With the native Americans, there was also a great cultural interaction that incr
 **Culture and Society** Georgia was a state developed upon interesting and virtuous beliefs, such as religious tolerance, debtor tolerance, and the prohibition of slavery. This shows the radical and creative mind of some Americans, the new ideas of the time&mdash; those three beliefs would carry on even to today. However, the older system of an economic system ruled by slaves and a Protestant-dominated colony, similar to the other plantation states, quickly won over, and Georgia lost its uniqueness. These plantation states reflected the ideology of old America: slavery, plantations, and some expansionary interests.
 
 #### The Iroquois ("Makers of America" section)
-- **Iroquois Confederacy**, or the "League of the Iroquois," was a confederationof the Mohawks, the Oneidas, the Onondagas, the Cayugas, and the Senugas
+- **Iroquois Confederacy**, or the "League of the Iroquois," was a confederation of the Mohawks, the Oneidas, the Onondagas, the Cayugas, and the Senugas
     - Was a great military power before the Europeans (beginning in the late 1500s)
     - Fought for territory with other Native Americans
         - Eliminated many rival tribes
